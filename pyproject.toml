@@ -1,6 +1,6 @@
 [project]
 name = "http-link-header-parser"
-version = "0.1.1"
+version = "0.1.2"
 description = "Parses RFC 8288 Link headers into structured relations, including parameters like rel, type, title, and anchor."
 requires-python = ">=3.10"
 dependencies = []
